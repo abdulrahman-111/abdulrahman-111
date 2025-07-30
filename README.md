@@ -18,8 +18,6 @@
 
 ---
 
-## 🛠 Technical Skills
-
 ### 💻 Programming & Tools
 - C, C++, Python, MATLAB, Verilog
 - SQLite, Electrical AutoCAD, Git
