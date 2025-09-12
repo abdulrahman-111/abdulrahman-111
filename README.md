@@ -13,14 +13,14 @@
 ## 🧑‍💼 About Me
 
 🎓 Computer Engineering student at Egypt University of Informatics (GPA: 3.99)  
-💡 Interested in problem solving, circuits, and software development  
+💡 Interested in problem solving,and software development  
 🏅 ECPC 2024 Finalist – Ranked 28th nationwide  
 
 ---
 
 ### 💻 Programming & Tools
 - C, C++, Python, MATLAB, Verilog
-- SQLite, Electrical AutoCAD, Git
+- SQLite, Git
 - Design Patterns, Graph Algorithms, Linear Algebra
 
 ### 📊 Projects & Applications
@@ -34,5 +34,5 @@
 
 ## 🌱 I’m Currently Learning
 - Advanced data structures & algorithms
-- Quantum computing foundations
+- Networking (ITN 1st semster of CCNA)
 
