@@ -11,7 +11,7 @@
 
 ## 🧑‍💼 About Me
 
-🎓 **Computer Engineering student** at **Egypt University of Informatics** (GPA: **3.99**)  
+🎓 **Computer Engineering student** at **Egypt University of Informatics** 
 🚀 Passionate about **DevOps, Cloud Computing, and scalable systems**  
 🤖 Strong interest in **AI-driven systems** and data-driven applications  
 🏅 **ECPC 2024 Finalist** – Ranked **28th nationwide**  
@@ -28,8 +28,10 @@ I enjoy building systems end-to-end — from **algorithmic design** and **softwa
 - Graph Algorithms, Data Structures, Linear Algebra
 
 ### ⚙️ DevOps & Cloud (Growing Focus)
-- Linux fundamentals & shell scripting  
-- Git & GitHub workflows  
+- Linux & shell scripting  
+- Git & GitHub workflows
+- Ansible
+- AWS Cloud
 - Docker & containerized applications  
 - Networking fundamentals (CCNA – ITN)  
 - CI/CD concepts & Infrastructure mindset  
@@ -43,9 +45,14 @@ I enjoy building systems end-to-end — from **algorithmic design** and **softwa
 
 ## 📊 Projects & Engineering Work
 
-- **Enhanced AC Circuit Analyzer**  
-  GUI-based engineering tool using **Modified Nodal Analysis (MNA)** for AC circuits  
-  *(Python, numerical computation, system modeling)*
+- **My Own Shell**  
+  A custom **Unix-like shell** supporting command execution, piping, redirection, and process handling  
+  *(C, Linux system calls, process management, OS internals)*
+
+- **Warsha Hub**  
+  A modular **social platform** with intelligent **friend recommendation and link prediction** using KNN and graph-based features  
+  *(Python, AI/ML concepts, graph analysis, system design)*
+
 
 - **Route4Me – Route Optimization CLI**  
   Delivery route planner using **Dijkstra & Prim algorithms**  
@@ -66,6 +73,10 @@ I enjoy building systems end-to-end — from **algorithmic design** and **softwa
 - **Soda Dispenser FSM**  
   Hardware-level simulation of a vending machine  
   *(Verilog, finite state machines, digital design)*
+  
+  - **Enhanced AC Circuit Analyzer**  
+  GUI-based engineering tool using **Modified Nodal Analysis (MNA)** for AC circuits  
+  *(Python, numerical computation, system modeling)*
 
 ---
 
