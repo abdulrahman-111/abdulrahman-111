@@ -66,18 +66,6 @@ I enjoy building systems end-to-end — from **algorithmic design** and **softwa
   OOP-based application using **design patterns** with persistent storage  
   *(C++ + SQLite, software architecture)*
 
-- **Solar Energy Data Analysis**  
-  Analytical study for performance and efficiency insights  
-  *(MATLAB, data analysis & visualization)*
-
-- **Soda Dispenser FSM**  
-  Hardware-level simulation of a vending machine  
-  *(Verilog, finite state machines, digital design)*
-  
-  - **Enhanced AC Circuit Analyzer**  
-  GUI-based engineering tool using **Modified Nodal Analysis (MNA)** for AC circuits  
-  *(Python, numerical computation, system modeling)*
-
 ---
 
 ## 🌱 Currently Learning & Exploring
