@@ -11,15 +11,14 @@
 
 ## 🧑‍💼 About Me
 
-🎓 **Computer Engineering student** at **Egypt University of Informatics** 
+🎓 **Computer Engineering student** at **Egypt University of Informatics**   
 🚀 Passionate about **DevOps, Cloud Computing, and scalable systems**  
-🤖 Strong interest in **AI-driven systems** and data-driven applications  
-🏅 **ECPC 2024 Finalist** – Ranked **28th nationwide**  
+🤖 Strong interest in **AI-driven systems** and intelligent software  
+🏅 **ECPC 2024 Finalist** – Ranked **28th nationwide**
 
-I enjoy building systems end-to-end — from **algorithmic design** and **software architecture** to **deployment, automation, and optimization**.
+I enjoy building systems **from the ground up** — understanding how things work at the **OS, networking, and infrastructure level**, then turning that knowledge into **reliable, automated, and scalable solutions**.
 
 ---
-
 ## 🛠️ Technical Skills
 
 ### 💻 Programming & Software
