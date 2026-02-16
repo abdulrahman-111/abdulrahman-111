@@ -45,7 +45,7 @@ I enjoy working close to the system level — Linux, networking, containers, and
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,aws,git,github,jenkins,ansible,python,cpp,c,mysql,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,aws,git,github,jenkins,ansible,python,cpp,c,sqlite&theme=dark" />
 </p>
 
 ---
