@@ -1,83 +1,57 @@
-<h1 align="center">👋 Hi, I’m Abdulrahman Gomaa</h1>
+# 👋 Hi, I’m Abdulrahman Gomaa
 
 <p align="center">
   <img src="https://img.shields.io/badge/DevOps-%230A0FFF?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud_Computing-%234285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud-%234285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Software_Engineering-%23008080?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Competitive_Programming-%23008ECC?style=flat-square&logo=codeforces&logoColor=white"/>
 </p>
 
 ---
 
 ## 🧑‍💼 About Me
 
-🎓 **Computer Engineering student** at **Egypt University of Informatics**   
-🚀 Passionate about **DevOps, Cloud Computing, and scalable systems**  
-🤖 Strong interest in **AI-driven systems** and intelligent software  
-🏅 **ECPC 2024 Finalist** – Ranked **28th nationwide**
+🎓 Computer Engineering student at **Egypt University of Informatics**  
+🚀 Aspiring **DevOps & Cloud Engineer**  
+🐳 Docker Certified – hands-on containerized applications  
+☸️ Kubernetes learner with practical deployments  
+🏅 ECPC 2024 Finalist – Ranked 28th nationwide  
 
-I enjoy building systems **from the ground up** — understanding how things work at the **OS, networking, and infrastructure level**, then turning that knowledge into **reliable, automated, and scalable solutions**.
+I enjoy working close to the system level — Linux, networking, containers, and automation — and turning that knowledge into scalable, reliable infrastructure.
 
 ---
-## 🛠️ Technical Skills
 
-### 💻 Programming & Software
-- **C, C++, Python, MATLAB, Verilog**
-- OOP, Design Patterns, Modular Architecture
-- Graph Algorithms, Data Structures, Linear Algebra
+## 🛠️ Languages & Tools
 
-### ⚙️ DevOps & Cloud (Growing Focus)
-- Linux & shell scripting  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,aws,git,github,jenkins,ansible,python,cpp,postgres,redis&theme=dark" />
+</p>
+
+---
+
+## ⚙️ DevOps Stack (Hands-On)
+
+- Linux & shell scripting
+- Docker & containerization
+- Kubernetes (Pods, Deployments, Services)
 - Git & GitHub workflows
-- Ansible
-- AWS Cloud
-- Docker & containerized applications  
-- Networking fundamentals (CCNA – ITN)  
-- CI/CD concepts & Infrastructure mindset  
-
-### 🗄️ Databases & Tools
-- SQLite
-- Git, GitHub
-- VS Code, Linux environments
+- CI/CD fundamentals (Jenkins, GitHub Actions concepts)
+- Configuration management (Ansible – basics)
+- Cloud fundamentals (AWS)
+- Networking fundamentals (CCNA – ITN)
 
 ---
 
-## 📊 Projects & Engineering Work
+## 🌱 Currently Learning
 
-- **My Own Shell**  
-  A custom **Unix-like shell** supporting command execution, piping, redirection, and process handling  
-  *(C, Linux system calls, process management, OS internals)*
-
-- **Warsha Hub**  
-  A modular **social platform** with intelligent **friend recommendation and link prediction** using KNN and graph-based features  
-  *(Python, AI/ML concepts, graph analysis, system design)*
-
-
-- **Route4Me – Route Optimization CLI**  
-  Delivery route planner using **Dijkstra & Prim algorithms**  
-  *(C++, algorithmic optimization, CLI tools)*
-
-- **University Exam Scheduler**  
-  Conflict-free timetable generator focused on **resource optimization**  
-  *(C, constraints handling, system logic)*
-
-- **Virtual Meeting & Scheduling System**  
-  OOP-based application using **design patterns** with persistent storage  
-  *(C++ + SQLite, software architecture)*
-
----
-
-## 🌱 Currently Learning & Exploring
-
-- DevOps tools & workflows (Docker, CI/CD concepts)
-- Cloud fundamentals & distributed systems
-- Computer networks (CCNA – ITN)
-- Advanced algorithms & system design
-- Applying AI techniques to real-world systems
+- Kubernetes (advanced workloads & networking)
+- CI/CD pipelines
+- Cloud-native architectures
+- Infrastructure as Code (IaC concepts)
 
 ---
 
 ## 📫 Let’s Connect
 
-I’m always interested in **DevOps projects, cloud-native systems, backend engineering, and AI-powered applications**.  
+I’m interested in **DevOps projects, Kubernetes deployments, cloud infrastructure, and backend systems**.  
 Feel free to explore my repositories or reach out for collaboration 🤝
