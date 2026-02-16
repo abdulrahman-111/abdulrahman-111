@@ -12,31 +12,22 @@
 ## 🧑‍💼 About Me
 
 🎓 Computer Engineering student at **Egypt University of Informatics**  
-🚀 Aspiring **DevOps & Cloud Engineer**  
-🐳 Docker Certified – hands-on containerized applications  
+🚀 Aspiring **DevOps & Cloud Engineer**   
 ☸️ Kubernetes learner with practical deployments  
-🏅 ECPC 2024 Finalist – Ranked 28th nationwide  
+🏅 ECPC 2024 Competent – Ranked 28th nationwide  
 
 I enjoy working close to the system level — Linux, networking, containers, and automation — and turning that knowledge into scalable, reliable infrastructure.
 
----
 
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,aws,git,github,jenkins,ansible,python,cpp,postgres,redis&theme=dark" />
-</p>
-
----
 
 ## ⚙️ DevOps Stack (Hands-On)
 
 - Linux & shell scripting
 - Docker & containerization
-- Kubernetes (Pods, Deployments, Services)
+- Kubernetes 
 - Git & GitHub workflows
-- CI/CD fundamentals (Jenkins, GitHub Actions concepts)
-- Configuration management (Ansible – basics)
+- CI/CD fundamentals (Jenkins)
+- Configuration management (Ansible )
 - Cloud fundamentals (AWS)
 - Networking fundamentals (CCNA – ITN)
 
@@ -50,7 +41,15 @@ I enjoy working close to the system level — Linux, networking, containers, and
 - Infrastructure as Code (IaC concepts)
 
 ---
+---
 
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,aws,git,github,jenkins,ansible,python,cpp,c&theme=dark" />
+</p>
+
+---
 ## 📫 Let’s Connect
 
 I’m interested in **DevOps projects, Kubernetes deployments, cloud infrastructure, and backend systems**.  
