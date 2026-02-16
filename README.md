@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Competitive_Programming-%23008ECC?style=flat-square&logo=codeforces&logoColor=white"/>
 </p>
 
----
+
 
 ## 🧑‍💼 About Me
 
@@ -31,7 +31,7 @@ I enjoy working close to the system level — Linux, networking, containers, and
 - Cloud fundamentals (AWS)
 - Networking fundamentals (CCNA – ITN)
 
----
+
 
 ## 🌱 Currently Learning
 
@@ -40,7 +40,7 @@ I enjoy working close to the system level — Linux, networking, containers, and
 - Cloud-native architectures
 - Infrastructure as Code (IaC concepts)
 
----
+
 
 ## 🛠️ Languages & Tools
 
@@ -48,7 +48,7 @@ I enjoy working close to the system level — Linux, networking, containers, and
   <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,aws,git,github,jenkins,ansible,python,cpp,c,sqlite&theme=dark" />
 </p>
 
----
+
 ## 📫 Let’s Connect
 
 I’m interested in **DevOps projects, Kubernetes deployments, cloud infrastructure, and backend systems**.  
