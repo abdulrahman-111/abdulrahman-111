@@ -2,9 +2,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/DevOps-%230A0FFF?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud-%234285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud_Computing-%234285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Software_Engineering-%23008080?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Competitive_Programming-%23008ECC?style=flat-square&logo=codeforces&logoColor=white"/>
 </p>
 
 ---
