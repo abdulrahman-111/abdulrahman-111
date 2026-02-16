@@ -41,7 +41,6 @@ I enjoy working close to the system level — Linux, networking, containers, and
 - Infrastructure as Code (IaC concepts)
 
 ---
----
 
 ## 🛠️ Languages & Tools
 
