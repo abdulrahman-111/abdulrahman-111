@@ -33,7 +33,7 @@ I enjoy working close to the system level — Linux, networking, containers, and
 
 
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Kubernetes (advanced workloads & networking)
 - CI/CD pipelines
