@@ -19,7 +19,6 @@ I enjoy working close to the system level — Linux, networking, containers, and
   <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-CLF--C02-%23FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
 
-**[AWS Certified Cloud Practitioner (CLF-C02)])** 
 Covers AWS core services (EC2, S3, IAM, VPC), cloud security, pricing models, and the shared responsibility model.
 
 
