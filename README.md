@@ -20,7 +20,6 @@ I enjoy working close to the system level — Linux, networking, containers, and
 </p>
 
 **[AWS Certified Cloud Practitioner (CLF-C02)](https://aws.amazon.com/verification)** — Issued May 2026 · Valid through May 2029  
-Validation: `e28fb16867c04f46afaa18c57534b22f`  
 Covers AWS core services (EC2, S3, IAM, VPC), cloud security, pricing models, and the shared responsibility model.
 
 ## ⚙️ DevOps Stack (Hands-On)
