@@ -32,21 +32,21 @@ Covers AWS core services (EC2, S3, IAM, VPC), cloud security, pricing models, an
 - Cloud fundamentals (AWS)
 - Networking fundamentals (CCNA – ITN)
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🤖 [AI-Powered FIFA Career Assistant](https://github.com/abdulrahman-111/Football-Data-Analysis)
+###  [AI-Powered FIFA Career Assistant](https://github.com/abdulrahman-111/Football-Data-Analysis)
 `Python` `Machine Learning` `Scikit-learn` `Pandas` `NumPy`  
 An AI assistant for FIFA Career Mode that supports club management decisions through player evaluation, transfer analysis, squad planning, and match outcome simulation.
 
-### 🌐 [Warsha Hub](https://github.com/abdulrahman-111/Warsha_hub)
+###  [Warsha Hub](https://github.com/abdulrahman-111/Warsha_hub)
 `Python` `PySide6` `ML` `SQLite`  
 An educational social platform featuring graph algorithms, KNN-based follow recommendations, personalized feed ranking, and an interactive GUI with social graph visualization.
 
-### 🐚 [My Own Shell](https://github.com/abdulrahman-111/Road-to-my-own-shell)
+###  [My Own Shell](https://github.com/abdulrahman-111/Road-to-my-own-shell)
 `C` `Linux`  
 A suite of custom Linux command-line utilities and progressive shell implementations, built from scratch to master system calls and process management.
 
-### 📅 [Virtual Meetings System](https://github.com/abdulrahman-111/VEMS-PROJ)
+###  [Virtual Meetings System](https://github.com/abdulrahman-111/VEMS-PROJ)
 `C++` `SQLite` `Design Patterns`  
 An event platform with login, scheduling, and waitlists built using Factory and Singleton design patterns, backed by an SQLite database.
 
