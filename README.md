@@ -20,7 +20,7 @@ I enjoy working close to the system level — Linux, networking, containers, and
 </p>
 
 **[AWS Certified Cloud Practitioner (CLF-C02)](https://aws.amazon.com/verification)** 
-Covers AWS core services (EC2, S3, IAM, VPC), cloud security, pricing models, and the shared responsibility model.
+
 
 ## ⚙️ DevOps Stack (Hands-On)
 - Linux & shell scripting
